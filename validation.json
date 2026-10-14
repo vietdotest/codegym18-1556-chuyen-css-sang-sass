@@ -1,0 +1,29 @@
+[
+  {
+    "width": 375,
+    "overflow": false,
+    "images": [],
+    "elementsCompared": 10,
+    "stylesIdentical": true,
+    "differences": [],
+    "headerBeforeIdentical": true
+  },
+  {
+    "width": 768,
+    "overflow": false,
+    "images": [],
+    "elementsCompared": 10,
+    "stylesIdentical": true,
+    "differences": [],
+    "headerBeforeIdentical": true
+  },
+  {
+    "width": 1440,
+    "overflow": false,
+    "images": [],
+    "elementsCompared": 10,
+    "stylesIdentical": true,
+    "differences": [],
+    "headerBeforeIdentical": true
+  }
+]
